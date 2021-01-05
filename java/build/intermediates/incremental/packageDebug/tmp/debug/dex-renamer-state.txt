@@ -1,0 +1,4 @@
+#Tue Jan 05 15:04:07 KST 2021
+base.0=/Users/punreachrany/Desktop/AndroidFaceDetection/java/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
